@@ -1,0 +1,22 @@
+[
+{"round":"THE DINNER RUSH","text":"What is the most dangerous thing to say during a shift?","options":["Behind!","It's slow tonight","Corner!","Order up!"],"correct":1,"points":1000},
+{"round":"THE DINNER RUSH","text":"A guest says, 'We're in a hurry.' What happens next?","options":["They order immediately","They take 15 minutes to decide","They leave","They order dessert first"],"correct":1,"points":1000},
+{"round":"THE DINNER RUSH","text":"What is the universal restaurant employee meal?","options":["Steak","A sushi platter","Cold fries eaten standing up","A balanced three-course meal"],"correct":2,"points":1000},
+{"round":"THE DINNER RUSH","text":"Which table is most likely to split the check 12 ways?","options":["A couple","A family of four","The group that said 'one check'","A solo diner"],"correct":2,"points":1000},
+{"round":"SUSHI IQ","text":"What is tobiko?","options":["Tuna belly","Flying fish roe","Pickled ginger","Seaweed"],"correct":1,"points":1000},
+{"round":"SUSHI IQ","text":"What is hamachi?","options":["Salmon","Yellowtail","Octopus","Eel"],"correct":1,"points":1000},
+{"round":"SUSHI IQ","text":"What is ponzu?","options":["Japanese mayonnaise","Rice wine","Citrus-based sauce","Chili paste"],"correct":2,"points":1000},
+{"round":"SUSHI IQ","text":"What does temaki refer to?","options":["Pressed sushi","Sashimi platter","Hand roll","Fried rice"],"correct":2,"points":1000},
+{"round":"CUSTOMER NIGHTMARES","text":"What does 'I'll just have one more drink' usually mean?","options":["One drink","At least 45 more minutes","They're leaving","They want water"],"correct":1,"points":1000},
+{"round":"CUSTOMER NIGHTMARES","text":"What does a customer mean by 'I know the owner'?","options":["They want directions","They're hoping for special treatment","They're applying for a job","They need a receipt"],"correct":1,"points":1000},
+{"round":"CUSTOMER NIGHTMARES","text":"A guest asks, 'Is the spicy tuna spicy?' What's the answer?","options":["No","Yes, it has some heat","It's a dessert","Only on Tuesdays"],"correct":1,"points":1000},
+{"round":"CUSTOMER NIGHTMARES","text":"What's the worst time for the POS to freeze?","options":["Before opening","During staff meal","Friday dinner rush","After closing"],"correct":2,"points":1000},
+{"round":"AFTER-SHIFT BRAIN","text":"Who released the album brat in 2024?","options":["Sabrina Carpenter","Charli xcx","Dua Lipa","Billie Eilish"],"correct":1,"points":1000},
+{"round":"AFTER-SHIFT BRAIN","text":"Which movie features 'On Wednesdays we wear pink'?","options":["Clueless","Mean Girls","Legally Blonde","Bridesmaids"],"correct":1,"points":1000},
+{"round":"AFTER-SHIFT BRAIN","text":"What does FYP stand for on TikTok?","options":["Find Your People","For You Page","Follow Your Passion","Favorite Young People"],"correct":1,"points":1000},
+{"round":"AFTER-SHIFT BRAIN","text":"Which artist released HOT TO GO!?","options":["Olivia Rodrigo","Tate McRae","Chappell Roan","Doja Cat"],"correct":2,"points":1000},
+{"round":"FINAL TICKET — DOUBLE POINTS","text":"What does '86' mean in restaurant slang?","options":["Make 86 portions","Item is unavailable","VIP table","Rush the order"],"correct":1,"points":2000},
+{"round":"FINAL TICKET — DOUBLE POINTS","text":"Which sushi style is fish served on a small mound of rice?","options":["Temaki","Nigiri","Sashimi","Uramaki"],"correct":1,"points":2000},
+{"round":"FINAL TICKET — DOUBLE POINTS","text":"Which of these is traditionally made from fermented soybeans?","options":["Miso","Wasabi","Mirin","Panko"],"correct":0,"points":2000},
+{"round":"FINAL TICKET — DOUBLE POINTS","text":"What happens immediately after someone says 'We can probably close early'?","options":["Everyone leaves","A bus arrives","A surprise late rush","The DJ stops"],"correct":2,"points":2000}
+]
